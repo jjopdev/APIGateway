@@ -15,3 +15,5 @@
 /Users/juanjo/Documents/Proyectos/jjop/APIGateway/APIGateway.Infrastructure/obj/Debug/net7.0/refint/APIGateway.Infrastructure.dll
 /Users/juanjo/Documents/Proyectos/jjop/APIGateway/APIGateway.Infrastructure/obj/Debug/net7.0/APIGateway.Infrastructure.pdb
 /Users/juanjo/Documents/Proyectos/jjop/APIGateway/APIGateway.Infrastructure/obj/Debug/net7.0/ref/APIGateway.Infrastructure.dll
+/Users/juanjo/Documents/Proyectos/jjop/APIGateway/APIGateway.Infrastructure/bin/Debug/net7.0/APIGateway.Infrastructure.runtimeconfig.json
+/Users/juanjo/Documents/Proyectos/jjop/APIGateway/APIGateway.Infrastructure/obj/Debug/net7.0/APIGateway.Infrastructure.genruntimeconfig.cache
