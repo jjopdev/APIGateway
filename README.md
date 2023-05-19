@@ -33,15 +33,23 @@ Sigue los siguientes pasos para ejecutar el proyecto en tu máquina local:
    git clone https://github.com/tu-usuario/APIGateway.git
 
 2. Navega al directorio del proyecto:
+   
+    ```bash
     cd APIGateway
 
 3. Restaura las dependencias del proyecto:
+    
+    ```bash
     dotnet restore
 
 4. Compila el proyecto
+    
+    ```bash
     dotnet build
 
 5. Ejecuta el proyecto
+    
+    ```bash
     dotnet run --project APIGateway.Presentation
 
 
