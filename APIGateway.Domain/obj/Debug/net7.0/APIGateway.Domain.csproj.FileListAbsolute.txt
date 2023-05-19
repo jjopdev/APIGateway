@@ -1,0 +1,12 @@
+/Users/juanjo/Documents/Proyectos/jjop/APIGateway/APIGateway.Domain/bin/Debug/net7.0/APIGateway.Domain.deps.json
+/Users/juanjo/Documents/Proyectos/jjop/APIGateway/APIGateway.Domain/bin/Debug/net7.0/APIGateway.Domain.dll
+/Users/juanjo/Documents/Proyectos/jjop/APIGateway/APIGateway.Domain/bin/Debug/net7.0/APIGateway.Domain.pdb
+/Users/juanjo/Documents/Proyectos/jjop/APIGateway/APIGateway.Domain/obj/Debug/net7.0/APIGateway.Domain.csproj.AssemblyReference.cache
+/Users/juanjo/Documents/Proyectos/jjop/APIGateway/APIGateway.Domain/obj/Debug/net7.0/APIGateway.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/juanjo/Documents/Proyectos/jjop/APIGateway/APIGateway.Domain/obj/Debug/net7.0/APIGateway.Domain.AssemblyInfoInputs.cache
+/Users/juanjo/Documents/Proyectos/jjop/APIGateway/APIGateway.Domain/obj/Debug/net7.0/APIGateway.Domain.AssemblyInfo.cs
+/Users/juanjo/Documents/Proyectos/jjop/APIGateway/APIGateway.Domain/obj/Debug/net7.0/APIGateway.Domain.csproj.CoreCompileInputs.cache
+/Users/juanjo/Documents/Proyectos/jjop/APIGateway/APIGateway.Domain/obj/Debug/net7.0/APIGateway.Domain.dll
+/Users/juanjo/Documents/Proyectos/jjop/APIGateway/APIGateway.Domain/obj/Debug/net7.0/refint/APIGateway.Domain.dll
+/Users/juanjo/Documents/Proyectos/jjop/APIGateway/APIGateway.Domain/obj/Debug/net7.0/APIGateway.Domain.pdb
+/Users/juanjo/Documents/Proyectos/jjop/APIGateway/APIGateway.Domain/obj/Debug/net7.0/ref/APIGateway.Domain.dll

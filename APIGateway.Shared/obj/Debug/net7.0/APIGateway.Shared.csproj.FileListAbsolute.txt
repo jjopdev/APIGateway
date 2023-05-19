@@ -1,0 +1,15 @@
+/Users/juanjo/Documents/Proyectos/jjop/APIGateway/APIGateway.Shared/bin/Debug/net7.0/APIGateway.Shared.deps.json
+/Users/juanjo/Documents/Proyectos/jjop/APIGateway/APIGateway.Shared/bin/Debug/net7.0/APIGateway.Shared.dll
+/Users/juanjo/Documents/Proyectos/jjop/APIGateway/APIGateway.Shared/bin/Debug/net7.0/APIGateway.Shared.pdb
+/Users/juanjo/Documents/Proyectos/jjop/APIGateway/APIGateway.Shared/bin/Debug/net7.0/APIGateway.Domain.dll
+/Users/juanjo/Documents/Proyectos/jjop/APIGateway/APIGateway.Shared/bin/Debug/net7.0/APIGateway.Domain.pdb
+/Users/juanjo/Documents/Proyectos/jjop/APIGateway/APIGateway.Shared/obj/Debug/net7.0/APIGateway.Shared.csproj.AssemblyReference.cache
+/Users/juanjo/Documents/Proyectos/jjop/APIGateway/APIGateway.Shared/obj/Debug/net7.0/APIGateway.Shared.GeneratedMSBuildEditorConfig.editorconfig
+/Users/juanjo/Documents/Proyectos/jjop/APIGateway/APIGateway.Shared/obj/Debug/net7.0/APIGateway.Shared.AssemblyInfoInputs.cache
+/Users/juanjo/Documents/Proyectos/jjop/APIGateway/APIGateway.Shared/obj/Debug/net7.0/APIGateway.Shared.AssemblyInfo.cs
+/Users/juanjo/Documents/Proyectos/jjop/APIGateway/APIGateway.Shared/obj/Debug/net7.0/APIGateway.Shared.csproj.CoreCompileInputs.cache
+/Users/juanjo/Documents/Proyectos/jjop/APIGateway/APIGateway.Shared/obj/Debug/net7.0/APIGateway.Shared.csproj.CopyComplete
+/Users/juanjo/Documents/Proyectos/jjop/APIGateway/APIGateway.Shared/obj/Debug/net7.0/APIGateway.Shared.dll
+/Users/juanjo/Documents/Proyectos/jjop/APIGateway/APIGateway.Shared/obj/Debug/net7.0/refint/APIGateway.Shared.dll
+/Users/juanjo/Documents/Proyectos/jjop/APIGateway/APIGateway.Shared/obj/Debug/net7.0/APIGateway.Shared.pdb
+/Users/juanjo/Documents/Proyectos/jjop/APIGateway/APIGateway.Shared/obj/Debug/net7.0/ref/APIGateway.Shared.dll

@@ -1,0 +1,111 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {
+      "APIGateway.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/APIGateway.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/APIGateway.Domain.dll": {}
+        }
+      },
+      "APIGateway.Shared/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "APIGateway.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/APIGateway.Shared.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/APIGateway.Shared.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "APIGateway.Domain/1.0.0": {
+      "type": "project",
+      "path": "../APIGateway.Domain/APIGateway.Domain.csproj",
+      "msbuildProject": "../APIGateway.Domain/APIGateway.Domain.csproj"
+    },
+    "APIGateway.Shared/1.0.0": {
+      "type": "project",
+      "path": "../APIGateway.Shared/APIGateway.Shared.csproj",
+      "msbuildProject": "../APIGateway.Shared/APIGateway.Shared.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0": [
+      "APIGateway.Domain >= 1.0.0",
+      "APIGateway.Shared >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/Users/juanjo/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/juanjo/Documents/Proyectos/jjop/APIGateway/APIGateway.Infrastructure/APIGateway.Infrastructure.csproj",
+      "projectName": "APIGateway.Infrastructure",
+      "projectPath": "/Users/juanjo/Documents/Proyectos/jjop/APIGateway/APIGateway.Infrastructure/APIGateway.Infrastructure.csproj",
+      "packagesPath": "/Users/juanjo/.nuget/packages/",
+      "outputPath": "/Users/juanjo/Documents/Proyectos/jjop/APIGateway/APIGateway.Infrastructure/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/juanjo/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {
+            "/Users/juanjo/Documents/Proyectos/jjop/APIGateway/APIGateway.Domain/APIGateway.Domain.csproj": {
+              "projectPath": "/Users/juanjo/Documents/Proyectos/jjop/APIGateway/APIGateway.Domain/APIGateway.Domain.csproj"
+            },
+            "/Users/juanjo/Documents/Proyectos/jjop/APIGateway/APIGateway.Shared/APIGateway.Shared.csproj": {
+              "projectPath": "/Users/juanjo/Documents/Proyectos/jjop/APIGateway/APIGateway.Shared/APIGateway.Shared.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.103/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

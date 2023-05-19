@@ -1,0 +1,17 @@
+/Users/juanjo/Documents/Proyectos/jjop/APIGateway/APIGateway.Infrastructure/bin/Debug/net7.0/APIGateway.Infrastructure.deps.json
+/Users/juanjo/Documents/Proyectos/jjop/APIGateway/APIGateway.Infrastructure/bin/Debug/net7.0/APIGateway.Infrastructure.dll
+/Users/juanjo/Documents/Proyectos/jjop/APIGateway/APIGateway.Infrastructure/bin/Debug/net7.0/APIGateway.Infrastructure.pdb
+/Users/juanjo/Documents/Proyectos/jjop/APIGateway/APIGateway.Infrastructure/bin/Debug/net7.0/APIGateway.Domain.dll
+/Users/juanjo/Documents/Proyectos/jjop/APIGateway/APIGateway.Infrastructure/bin/Debug/net7.0/APIGateway.Shared.dll
+/Users/juanjo/Documents/Proyectos/jjop/APIGateway/APIGateway.Infrastructure/bin/Debug/net7.0/APIGateway.Domain.pdb
+/Users/juanjo/Documents/Proyectos/jjop/APIGateway/APIGateway.Infrastructure/bin/Debug/net7.0/APIGateway.Shared.pdb
+/Users/juanjo/Documents/Proyectos/jjop/APIGateway/APIGateway.Infrastructure/obj/Debug/net7.0/APIGateway.Infrastructure.csproj.AssemblyReference.cache
+/Users/juanjo/Documents/Proyectos/jjop/APIGateway/APIGateway.Infrastructure/obj/Debug/net7.0/APIGateway.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/juanjo/Documents/Proyectos/jjop/APIGateway/APIGateway.Infrastructure/obj/Debug/net7.0/APIGateway.Infrastructure.AssemblyInfoInputs.cache
+/Users/juanjo/Documents/Proyectos/jjop/APIGateway/APIGateway.Infrastructure/obj/Debug/net7.0/APIGateway.Infrastructure.AssemblyInfo.cs
+/Users/juanjo/Documents/Proyectos/jjop/APIGateway/APIGateway.Infrastructure/obj/Debug/net7.0/APIGateway.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/juanjo/Documents/Proyectos/jjop/APIGateway/APIGateway.Infrastructure/obj/Debug/net7.0/APIGateway.Infrastructure.csproj.CopyComplete
+/Users/juanjo/Documents/Proyectos/jjop/APIGateway/APIGateway.Infrastructure/obj/Debug/net7.0/APIGateway.Infrastructure.dll
+/Users/juanjo/Documents/Proyectos/jjop/APIGateway/APIGateway.Infrastructure/obj/Debug/net7.0/refint/APIGateway.Infrastructure.dll
+/Users/juanjo/Documents/Proyectos/jjop/APIGateway/APIGateway.Infrastructure/obj/Debug/net7.0/APIGateway.Infrastructure.pdb
+/Users/juanjo/Documents/Proyectos/jjop/APIGateway/APIGateway.Infrastructure/obj/Debug/net7.0/ref/APIGateway.Infrastructure.dll

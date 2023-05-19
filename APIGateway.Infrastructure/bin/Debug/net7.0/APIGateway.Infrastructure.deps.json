@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "APIGateway.Infrastructure/1.0.0": {
+        "dependencies": {
+          "APIGateway.Domain": "1.0.0",
+          "APIGateway.Shared": "1.0.0"
+        },
+        "runtime": {
+          "APIGateway.Infrastructure.dll": {}
+        }
+      },
+      "APIGateway.Domain/1.0.0": {
+        "runtime": {
+          "APIGateway.Domain.dll": {}
+        }
+      },
+      "APIGateway.Shared/1.0.0": {
+        "dependencies": {
+          "APIGateway.Domain": "1.0.0"
+        },
+        "runtime": {
+          "APIGateway.Shared.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "APIGateway.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "APIGateway.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "APIGateway.Shared/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
